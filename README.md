@@ -4,6 +4,7 @@
 _Differs for Intel and Apple Silicon based Macs_
 
 Macbook-Pro local % which brew
+
 /opt/homebrew/bin/brew
 
 
